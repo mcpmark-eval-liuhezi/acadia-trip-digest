@@ -23,7 +23,7 @@ Four events are currently on the calendar from the National Park Service for the
 - **What:** Join volunteer crew leaders for trail stewardship — cutting back vegetation, clearing drainage features, building bogwalk, tread work, weeding the carriage roads, and other tasks.
 - **When:** Every Tuesday, Thursday, and Saturday from June through end of October. Remaining dates in our window: **Oct 20, 22, 24, 27, 29, 31**.
 - **Where:** Park and meet at the **Hulls Cove Storage Facility**, near the Hulls Cove Visitor Center, Visitor Center Rd, Bar Harbor, ME 04609. (Same location as 2024 — Park HQ is under construction.) Enter via the Hulls Cove Visitor Center entrance off Route 3, continue past the Visitor Center parking lot on Paradise Hill Road; when the road splits, bear left to the Hulls Cove Storage Facility. There is an "authorized vehicles only" and "do not enter" sign — volunteers should continue past; signs will be out to guide you.
-- **Notes:** Projects run 8:15 a.m.–12:15 p.m., weather permitting. No experience or reservation required. Free.
+- **Notes:** Projects run 8:15 a.m.–12:15 p.m., weather permitting. No experience or reservation required.
 - **Coordinates:** 44.409348, -68.249377
 - **Tags:** friends of acadia, volunteer, stewardship
 
@@ -32,7 +32,7 @@ Four events are currently on the calendar from the National Park Service for the
 - **When:** **Oct 21, 23, 28, 30** (the feed lists "All day" — check with the park for exact start time).
 - **Where:** **Outside Sieur de Monts Nature Center**.
 - **Notes:** Mostly level 2.3 miles — good short-day option for the crew.
-- **Coordinates:**  N.P. — 44.362095, -68.207892
+- **Coordinates:** 44.362095, -68.207892
 - **Accessibility:** Sign language, live audio description, assistive listening devices, or other accommodation can be requested at least 10 days in advance at 207-288-3338, option 0, or acadia_information@nps.gov (go.nps.gov/AcadiaAccessibility).
 
 **3. EeeK of Ecology Halloween Festival for Children** — *Special Event*
@@ -59,11 +59,7 @@ The NPS events feed alone won't show closures or planning logistics, so here's e
 |-------|------|---------|--------------|
 | **Eastern Section of Beech Mountain Loop Trail Closed for Repairs** | Park Closure (area inaccessible) | Starting Sept 21, the eastern section of the Beech Mountain Loop Trail is closed from a junction just beyond the parking lot to just below the summit at the fire tower. Three alternate routes to the summit are available: the outer loop of the Beech Mountain Loop Trail, Beech South Ridge Trail, and Beech West Ridge Trail. | 9/30/2026 |
 | **Schoodic Mountain Road Closed for Repairs** | Park Closure (area inaccessible) | Starting Aug 31, Schoodic Mountain Road is closed from Schoodic Loop Road to the summit of Schoodic Head. Workers will be operating heavy equipment for resurfacing, regrading, and ditching. | 9/30/2026 |
-| **Loading results...
-(this is where the road/parking/trail-by-trail closures list loads)
-Loading results...
-Loading results...** | Park Closure (area inaccessible) | Starting Aug 31, a section of Ocean Path will be closed for repairs from a trailhead across from the Otter Point parking lot to the trail's southern terminus. | 9/16/2026 |
-| **Schoodic Mountain Road Closed for Repairs** | Park Closure (area inaccessible) | n/a — duplicate entry in the feed for the same closure, listed above. | 9/30/2026 |
+| **Southern Section of Ocean Path Closed for Repairs** | Park Closure (area inaccessible) | Starting Aug 31, a section of Ocean Path will be closed for repairs from a trailhead across from the Otter Point parking lot to the trail's southern terminus. | 9/16/2026 |
 
 **Plain-language summary of closures affecting the crew:**
 - **Beech Mountain Loop (east section):** closed below the summit/fire tower. Use the outer loop, Beech South Ridge, or Beech West Ridge trails instead.
@@ -82,8 +78,7 @@ Loading results...** | Park Closure (area inaccessible) | Starting Aug 31, a sec
 
 ### Other conditions-page notes
 - **Beaches:** Sand Beach, Echo Lake Beach, and Lake Wood are monitored weekly for bacteria **June through August only** — monitoring has ended for the season.
-- **Roads/parking/trails detailed lists:** the Current Conditions page loads a facility-specific list via scripts ("Loading results…"); the **Operating Hours & Seasons** page is where the park publishes detailed facility opening/closing dates — check it before finalizing dates.
- Operating Hours & Seasons URL: nps.gov/acad/planyourvisit/hours.htm
+- **Roads/parking/trails detailed lists:** the Current Conditions page loads facility-specific lists via scripts (rendered in the page as "Loading results…"), so the page itself is best viewed in a browser; the **Operating Hours & Seasons** page (nps.gov/acad/planyourvisit/hours.htm) is where the park publishes detailed facility opening/closing dates — check it before finalizing dates.
 - **Winter storms (Jan 2024) damage history:** significant storm damage occurred across the park (Ocean Path temporary repairs, Sand Beach staircase damage, Little Hunters Beach steps washed out, Otter Cove causeway riprap damage, Seawall Picnic Area and Campground downed trees, Islesford Historical Museum area damage, Rockefeller Hall roof damage). Crews continue to respond to long-term impacts — **exercise caution while exploring**.
 - **Park contact:** PO Box 177, Bar Harbor, ME 04609 · 207-288-3338
 
